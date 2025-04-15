@@ -1,5 +1,6 @@
 # Verificar Status dos Alunos
 </b>Sistema Automatizado de Classificação do Desempenho Escolar
+![Captura de tela 2025-04-15 112146](https://github.com/user-attachments/assets/77e85cdb-f879-4e0f-a52a-d8d63d8eb915)
 
 
 
