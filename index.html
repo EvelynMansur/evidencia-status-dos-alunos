@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Status dos Alunos</title>
+    <link href="./style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Barra de navegação -->
+    <header>
+        <h1>Verificar Status dos Alunos</h1>
+    </header>
+
+    <!-- Formulário para carregar o arquivo CSV -->
+    <div class="form-container">
+        <input type="file" id="csvFile" accept=".csv">
+        <button onclick="processarCSV()">Processar CSV</button>
+    </div>
+
+    <!-- Exibir resultados -->
+    <div id="resultados" class="table-container">
+        <!-- Aqui os resultados serão exibidos -->
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
